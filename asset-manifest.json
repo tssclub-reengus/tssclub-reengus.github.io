@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0650d6e.chunk.css",
+    "main.js": "/static/js/main.3ba47b12.chunk.js",
+    "main.js.map": "/static/js/main.3ba47b12.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8a21426.js.map",
+    "static/css/2.429609f4.chunk.css": "/static/css/2.429609f4.chunk.css",
+    "static/js/2.75a12fcd.chunk.js": "/static/js/2.75a12fcd.chunk.js",
+    "static/js/2.75a12fcd.chunk.js.map": "/static/js/2.75a12fcd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.21211c3c665eb6a3d1914fe30d028982.js": "/precache-manifest.21211c3c665eb6a3d1914fe30d028982.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.429609f4.chunk.css.map": "/static/css/2.429609f4.chunk.css.map",
+    "static/css/main.b0650d6e.chunk.css.map": "/static/css/main.b0650d6e.chunk.css.map",
+    "static/js/2.75a12fcd.chunk.js.LICENSE.txt": "/static/js/2.75a12fcd.chunk.js.LICENSE.txt",
+    "static/media/aboutus.jpg": "/static/media/aboutus.e8d0d930.jpg",
+    "static/media/HeroComponents.css": "/static/media/bg_header.040a72f7.jpg",
+    "static/media/calendario.svg": "/static/media/calendario.4745d56b.svg",
+    "static/media/ducha.svg": "/static/media/ducha.ba75bded.svg",
+    "static/media/education_scholarship.jpg": "/static/media/education_scholarship.c4846301.jpg",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/football_gym_fitness.jpg": "/static/media/football_gym_fitness.171fbfbf.jpg",
+    "static/media/football_training.jpg": "/static/media/football_training.0e533b5f.jpg",
+    "static/media/healthy_diet.jpg": "/static/media/healthy_diet.c92ba012.jpg",
+    "static/media/pesa.svg": "/static/media/pesa.3a729224.svg",
+    "static/media/post.jpg": "/static/media/post.3fb28d1d.jpg",
+    "static/media/post2.jpg": "/static/media/post2.c0035fc3.jpg",
+    "static/media/post3.jpg": "/static/media/post3.62647af9.jpg",
+    "static/media/salud.svg": "/static/media/salud.6ca8c745.svg",
+    "static/media/Testimonials.css": "/static/media/testimonials.9e2106bd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a21426.js",
+    "static/css/2.429609f4.chunk.css",
+    "static/js/2.75a12fcd.chunk.js",
+    "static/css/main.b0650d6e.chunk.css",
+    "static/js/main.3ba47b12.chunk.js"
+  ]
+}
